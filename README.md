@@ -1,5 +1,5 @@
 <!-- HEADER -->
-[![Header](<p float="center"><img src="scrapbook/portfolio.png" alt="Logo" width="1000"/></p>)](https://jcordovaj.github.io/)
+[![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
 
 # 👋 Hi, I'm **Jorge Córdova Juillerat**
 ### ICT Strategy • Digital Transformation • AI Adoption • Operations & Multi-Stack Integration
