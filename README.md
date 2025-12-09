@@ -138,8 +138,8 @@ A blend of engineering, business, and specialized professional training:
 
 - 📧 **Email:** jorge.cordovaj@gmail.com  
 - 🌍 **Location:** Santiago, Chile  
-- 🔗 **LinkedIn:** https://example.com/linkedin  
-- 🌐 **Website/Portfolio:** https://jcordovaj.github.io/ *(placeholder)*  
+- 🔗 **LinkedIn:** www.linkedin.com/in/jotacordovaj  
+- 🌐 **Website/Portfolio:** https://jcordovaj.github.io/  
 
 ---
 
