@@ -117,13 +117,13 @@ A blend of engineering, business, and specialized professional training:
 
 ## 📁 **Portfolio Apps (Android), Projects and Prototype**
 
-| Technology | Project |
-|---------|----------|
-| Python/Streamlit | [Demo peajes en Python Usando Streamlit](https://evalm4-jotacordovaj.streamlit.app/) |
-| Telcos & VAS | https://example.com/portfolio-telecom |
-| Cloud & Data | https://example.com/portfolio-cloud |
-| Industrial & Mining | https://example.com/portfolio-industrial |
-| Apps & Prototypes | https://example.com/portfolio-apps |
+| Technology | Brief | Project
+|---------|----------|----------|
+| Python/Streamlit | Academic project | [Demo Toll Payment Software using Python and Streamlit](https://evalm4-jotacordovaj.streamlit.app/) |
+| Telcos & VAS  | | https://example.com/portfolio-telecom |
+| Cloud & Data  | | https://example.com/portfolio-cloud |
+| Industrial & Mining  | | https://example.com/portfolio-industrial |
+| Apps & Prototypes  | | https://example.com/portfolio-apps |
 
 ---
 
