@@ -1,90 +1,148 @@
+<!-- HEADER -->
 [![Header](<p float="center"><img src="scrapbook/portfolio.png" alt="Logo" width="1000"/></p>)](https://jcordovaj.github.io/)
 
-<p float="center"><img src="scrapbook/portfolio.png" alt="Logo" width="1000"/></p>
-## Hi there 👋
+# 👋 Hi, I'm **Jorge Córdova Juillerat**
+### ICT Strategy • Digital Transformation • AI Adoption • Operations & Multi-Stack Integration
 
-<!--
-**jcordovaj/jcordovaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior ICT executive and consultant with more than **20 years of experience** leading complex technology environments in **Latin America**, working across telecommunications, government, public safety, fintech, retail, mining, and multinational corporate markets.
 
-Here are some ideas to get you started:
+I specialize in connecting **business strategy, digital transformation, hyperscalers, AI**, and operational execution for organizations that depend on mission-critical services, high-availability infrastructure, and scalable technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🧭 **Professional Overview**
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+With a background that spans **technology, operations, business development, project leadership, and digital innovation**, I help organizations define, deploy, and scale technology strategies through:
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- ICT strategy, multi-country operations and technology governance  
+- Digital transformation and adoption of disruptive technologies (AI/ML, automation, IoT, Big Data)  
+- High-stakes project recovery, SLA execution, and operational excellence  
+- Hyperscaler enablement (**AWS, Azure, GCP**)  
+- Architecture and integration of **multi-stack platforms, VAS, IIoT, cybersecurity, and critical mission services**  
+- Value creation through data, BI/analytics, cloud modernization, and enterprise automation  
+- Leadership in multicultural, distributed teams across Latin America  
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+My career blends **technical depth**, **commercial understanding**, and **operational leadership**, helping large organizations evolve securely and competitively.
 
-## &#x270d; Blog & Writing
+---
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+## 💼 **Areas of Expertise**
 
-A sample of my recent articles:
+### **Strategic & Organizational**
+- ICT strategy & governance  
+- Business and financial optimization  
+- P&L, budgeting, business cases  
+- Complex negotiations and contract management  
+- Multinational operations management  
+- Critical mission environments (9-1-1, ITS, TranSantiago, government automation)
 
-<!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
-- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
-- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
-<!-- BLOG-POST-LIST:END -->
+### **Technology & Engineering**
+- Multi-stack integration (cloud, on-premise, hybrid)  
+- Hyperscalers: AWS, Azure, Google Cloud  
+- Big Data / AI / ML adoption strategies  
+- Cybersecurity, risk management & compliance  
+- Data platforms: SQL/NoSQL, Hadoop, Spark, Hive, Pentaho  
+- Software architecture & scalable infrastructure  
 
-## &#x1f4c8; GitHub Stats
+### **Transformation & Innovation**
+- Digital transformation roadmaps  
+- Automation (RPA/BPM), telemetry, IoT, Industry 4.0  
+- Data as an asset, BI/analytics  
+- Lean IT, Agile, DevOps-oriented practices  
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+---
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+## 🛠 **Relevant Projects & Contributions**
 
+Below are highlighted examples that represent the type of work I lead.  
+*(URLs are placeholders — replace with your actual links when available.)*
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+### **📌 Public Safety & Government**
+- **National 9-1-1 Automation (Costa Rica)**  
+  Multi-agency emergency automation platform  
+  ➤ *[Project Details](https://example.com/project-public-safety)*
 
-<!-- links to social media icons -->
+- **Digital Fonasa (Chile)** – Public health insurance automation  
+  ➤ *[Case Study](https://example.com/project-fonasa)*
 
-<!-- icons with padding -->
+- **SRCEI, Biblioredes, EFE Transportation Systems**  
+  ➤ *[Project Overview](https://example.com/project-government)*
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+---
 
-<!-- icons without padding -->
+### **📌 Telecom & Multinational Integrations**
+- VAS / Multi-stack integrations for **Kolbi, Claro, Tigo/Millicom, Movistar, C&W, ETB, Entel, Telmex**  
+- Carrier-grade integrations for IoT, telemetry, and mission-critical services  
+  ➤ *[Telecom Portfolio](https://example.com/project-telcos)*
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+---
 
+### **📌 Corporate, Mining, and Industrial**
+- Managed services and digital transformation for **Codelco, Mantos Blancos, Pelambres, QB**  
+- Technology risk management for **Santander Group**  
+- Business intelligence and automation for industrial IoT  
+  ➤ *[Enterprise Projects](https://example.com/project-industrial)*
 
-<!-- links to your social media accounts -->
+---
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+### **📌 Software, Cloud & Data Innovation**
+- Multi-cloud (AWS/Azure/GCP) adoption strategies  
+- Mission-critical systems architecture & migration  
+- Data governance & BI architectures  
+  ➤ *[Cloud & Data Projects](https://example.com/project-cloud-data)*
+
+---
+
+## 🎓 **Education & Certifications Overview**
+
+A blend of engineering, business, and specialized professional training:
+
+- **Computer Engineer**  
+- **Business Administration**  
+- **MBA (Thesis Pending)**  
+- Multiple diplomas in software quality, agile project management, multimedia design, public safety, Industry 4.0  
+- Professional badges in:  
+  - AI for Product Management  
+  - BI & Analytics  
+  - Lean Six Sigma  
+  - Scrum  
+  - Postman API Expert  
+  - AWS Machine Learning & Cloud Foundations  
+  - Full Stack Python  
+
+---
+
+## 🔧 **Technical Stack & Tools**
+
+**Cloud:** AWS • Azure • GCP  
+**Data:** Python • SQL/NoSQL • Hadoop • Spark • Hive • Pentaho • PowerBI • Looker  
+**Dev & Ops:** Docker • Git • APIs • CI/CD fundamentals  
+**Processes:** Agile • BPM • RPA • ISO 27000 • ITSM • BCM  
+**Domains:** Telcos • Public Safety • Fintech • Retail • Government • Mining  
+
+---
+
+## 📁 **Portfolio (Placeholder Links)**
+
+| Category | Projects |
+|---------|----------|
+| Public Safety & GovTech | https://example.com/portfolio-public-safety |
+| Telcos & VAS | https://example.com/portfolio-telecom |
+| Cloud & Data | https://example.com/portfolio-cloud |
+| Industrial & Mining | https://example.com/portfolio-industrial |
+| Apps & Prototypes | https://example.com/portfolio-apps |
+
+---
+
+## 🌐 **Connect with Me**
+
+- 📧 **Email:** jorge.cordovaj@gmail.com  
+- 🌍 **Location:** Santiago, Chile  
+- 🔗 **LinkedIn:** https://example.com/linkedin  
+- 🌐 **Website/Portfolio:** https://jcordovaj.github.io/ *(placeholder)*  
+
+---
+
+### ⭐ *Thank you for visiting my GitHub!  
+I’m open to collaborating on ICT strategy, digital transformation, data-driven innovation, and large-scale technology challenges.*
+
