@@ -120,10 +120,10 @@ A blend of engineering, business, and specialized professional training:
 | Technology | Brief | Project
 |---------|----------|----------|
 | Python/Streamlit | Academic project | [Demo Toll Payment Software using Python and Streamlit](https://evalm4-jotacordovaj.streamlit.app/) |
-| Telcos & VAS  | | https://example.com/portfolio-telecom |
-| Cloud & Data  | | https://example.com/portfolio-cloud |
-| Industrial & Mining  | | https://example.com/portfolio-industrial |
-| Apps & Prototypes  | | https://example.com/portfolio-apps |
+| Android/Kotlin  | Personal Finances | [App "MisLucas", personal financial planner using Kotlin](https://github.com/jcordovaj/ae3_abpro1_MisLucas) |
+| Android/Kotlin  | Personal Assistant | [App "GesTareaV5", personal financial planner using Kotlin](https://github.com/jcordovaj/evalfinal_GesTareaV5) |
+| Android/Kotlin  | ApiRest/News | [App "ApiNews", personal feeds systems using an Open API](https://github.com/jcordovaj/ae2_abp1_APINews) |
+| Android/Kotlin  | Home Care | [App "MayorCuidado", complete home care system oriented to support patients with severe dependency](https://github.com/jcordovaj/MayorCuidadoV1.0) |
 
 ---
 
