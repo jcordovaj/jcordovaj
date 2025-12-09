@@ -58,22 +58,17 @@ Below are highlighted examples that represent the type of work I lead.
 *(URLs are placeholders — replace with your actual links when available.)*
 
 ### **📌 Public Safety & Government**
-- **National 9-1-1 Automation (Costa Rica)**  
-  Multi-agency emergency automation platform  
-  ➤ *[Project Details](https://example.com/project-public-safety)*
+- **National 9-1-1 Automation (Costa Rica)** - Multi-agency emergency automation platform  
 
 - **Digital Fonasa (Chile)** – Public health insurance automation  
-  ➤ *[Case Study](https://example.com/project-fonasa)*
 
 - **SRCEI, Biblioredes, EFE Transportation Systems**  
-  ➤ *[Project Overview](https://example.com/project-government)*
 
 ---
 
 ### **📌 Telecom & Multinational Integrations**
 - VAS / Multi-stack integrations for **Kolbi, Claro, Tigo/Millicom, Movistar, C&W, ETB, Entel, Telmex**  
 - Carrier-grade integrations for IoT, telemetry, and mission-critical services  
-  ➤ *[Telecom Portfolio](https://example.com/project-telcos)*
 
 ---
 
@@ -81,7 +76,6 @@ Below are highlighted examples that represent the type of work I lead.
 - Managed services and digital transformation for **Codelco, Mantos Blancos, Pelambres, QB**  
 - Technology risk management for **Santander Group**  
 - Business intelligence and automation for industrial IoT  
-  ➤ *[Enterprise Projects](https://example.com/project-industrial)*
 
 ---
 
@@ -89,7 +83,6 @@ Below are highlighted examples that represent the type of work I lead.
 - Multi-cloud (AWS/Azure/GCP) adoption strategies  
 - Mission-critical systems architecture & migration  
 - Data governance & BI architectures  
-  ➤ *[Cloud & Data Projects](https://example.com/project-cloud-data)*
 
 ---
 
@@ -122,11 +115,11 @@ A blend of engineering, business, and specialized professional training:
 
 ---
 
-## 📁 **Portfolio (Placeholder Links)**
+## 📁 **Portfolio Apps (Android), Projects and Prototype**
 
-| Category | Projects |
+| Technology | Project |
 |---------|----------|
-| Public Safety & GovTech | https://example.com/portfolio-public-safety |
+| Python/Streamlit | [Demo peajes en Python Usando Streamlit](https://evalm4-jotacordovaj.streamlit.app/) |
 | Telcos & VAS | https://example.com/portfolio-telecom |
 | Cloud & Data | https://example.com/portfolio-cloud |
 | Industrial & Mining | https://example.com/portfolio-industrial |
