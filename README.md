@@ -1,7 +1,7 @@
 <!-- HEADER -->
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
 
-# 👋 Hi, I'm **Jorge Córdova Juillerat**
+# 👋 Hi, I'm **Jota Córdova**
 ### ICT Strategy • Digital Transformation • AI Adoption • Operations & Multi-Stack Integration
 
 Senior ICT executive and consultant with more than **20 years of experience** leading complex technology environments in **Latin America**, working across telecommunications, government, public safety, fintech, retail, mining, and multinational corporate markets.
