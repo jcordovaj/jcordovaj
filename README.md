@@ -59,9 +59,7 @@ Below are highlighted examples that represent the type of work I lead.
 
 ### **📌 Public Safety & Government**
 - **National 9-1-1 Automation (Costa Rica)** - Multi-agency emergency automation platform  
-
 - **Digital Fonasa (Chile)** – Public health insurance automation  
-
 - **SRCEI, Biblioredes, EFE Transportation Systems**  
 
 ---
