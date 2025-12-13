@@ -104,13 +104,13 @@ A blend of engineering, business, and specialized professional training:
 
 ## 🔧 **Technical Stack & Tools**
 
-**Cloud:** AWS • Azure • GCP
-**Programming Languages:** Python • Java • Kotlin • Javascript • Bash
-**Data:** Python • SQL/NoSQL • Hadoop • Spark • Hive • Pentaho • PowerBI • Looker
-**Dev & Ops:** Docker • Git • APIs • CI/CD fundamentals
-**Processes:** Agile • BPM • RPA • ISO 27000 • ISO20000 • ISO22301 • ITSM • BCM
-**Domains:** Telcos • Public Safety • Fintech • Retail • Government • Mining
-**World Class Platforms:** SAP • Dynamics • Salesforce
+**Cloud:** AWS • Azure • GCP    
+**Programming Languages:** Python • Java • Kotlin • Javascript • Bash    
+**Data:** Python • SQL/NoSQL • Hadoop • Spark • Hive • Pentaho • PowerBI • Looker    
+**Dev & Ops:** Docker • Git • APIs • CI/CD fundamentals    
+**Processes:** Agile • BPM • RPA • ISO 27000 • ISO20000 • ISO22301 • ITSM • BCM    
+**Domains:** Telcos • Public Safety • Fintech • Retail • Government • Mining    
+**World Class Platforms:** SAP • Dynamics • Salesforce    
 
 ---
 
