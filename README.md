@@ -55,7 +55,6 @@ My career blends **technical depth**, **commercial understanding**, and **operat
 ## 🛠 **Relevant Projects & Contributions**
 
 Below are highlighted examples that represent the type of work I lead.  
-*(URLs are placeholders — replace with your actual links when available.)*
 
 ### **📌 Public Safety & Government**
 - **National 9-1-1 Automation (Costa Rica)** - Multi-agency emergency automation platform  
