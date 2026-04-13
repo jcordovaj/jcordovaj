@@ -43,8 +43,8 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 - ☁️ Azure AI Foundry / Azure OpenAI integration for enterprise-grade AI solutions
 - 🧩 Prompt engineering, evaluation, and optimization
 - 📚 Vector databases & semantic search:
-  - FAISS (localprototyping)
-  - CloudvectorDBs (Pinecone, others)
+  - FAISS (local prototyping)
+  - Cloud vector DBs (Pinecone, others)
 - 🔄 End-to-end AI pipelines:
   - ingestion → embeddings → retrieval → generation
 
