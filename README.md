@@ -32,7 +32,7 @@ With a multidisciplinary background across technology, operations, business deve
 
 Strong focus on applied AI, LLM-based systems, and next-generation architectures:
 
-- 🧠 Design and implementation of RAG (Retrieval-AugmentedGeneration) systems
+- 🧠 Design and implementation of RAG (Retrieval-Augmented Generation) systems
 - 🔗 Orchestration frameworks:
   - LangChain
   - LlamaIndex / Ollama-basedpipelines
