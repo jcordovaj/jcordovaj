@@ -1,140 +1,224 @@
 <!-- HEADER -->
+
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
 
-# 👋 Hi, I'm **Jota Córdova**
-### ICT Strategy • Digital Transformation • AI Adoption • Operations & Multi-Stack Integration
+# 👋 Hi, I'm Jota Córdova
 
-Senior ICT executive and consultant with more than **20 years of experience** leading complex technology environments in **Latin America**, working across telecommunications, government, public safety, fintech, retail, mining, and multinational corporate markets.
+ICTStrategy • DigitalTransformation • AIAdoption • Multi-AgentSystems • Operations & Multi-StackIntegration
 
-I specialize in connecting **business strategy, digital transformation, hyperscalers, AI**, and operational execution for organizations that depend on mission-critical services, high-availability infrastructure, and scalable technology.
+Senior ICT executive and consultant with 20+ years of experience leading complex technology environments across LatinAmerica, spanning telecommunications, government, public safety, fintech, retail, mining, and multinational corporate ecosystems.
 
----
-
-## 🧭 **Professional Overview**
-
-With a background that spans **technology, operations, business development, project leadership, and digital innovation**, I help organizations define, deploy, and scale technology strategies through:
-
-- ICT strategy, multi-country operations and technology governance  
-- Digital transformation and adoption of disruptive technologies (AI/ML, automation, IoT, Big Data)  
-- High-stakes project recovery, SLA execution, and operational excellence  
-- Hyperscaler enablement (**AWS, Azure, GCP**)  
-- Architecture and integration of **multi-stack platforms, VAS, IIoT, cybersecurity, and critical mission services**  
-- Value creation through data, BI/analytics, cloud modernization, and enterprise automation  
-- Leadership in multicultural, distributed teams across Latin America  
-
-My career blends **technical depth**, **commercial understanding**, and **operational leadership**, helping large organizations evolve securely and competitively.
+I specialize in bridging busines sstrategy, digital transformation, AI-driven architectures, hyperscalers, and operational execution for organizations running mission-critical, high-availability systems.
 
 ---
 
-## 💼 **Areas of Expertise**
+## 🧭 Professional Overview
 
-### **Strategic & Organizational**
-- ICT strategy & governance  
-- Business and financial optimization  
-- P&L, budgeting, business cases  
-- Complex negotiations and contract management  
-- Multinational operations management  
-- Critical mission environments (9-1-1, ITS, TranSantiago, government automation)
+With a multidisciplinary background across technology, operations, business development, and innovation, I help organizations define, deploy, and scale modern technology strategies through:
 
-### **Technology & Engineering**
-- Multi-stack integration (cloud, on-premise, hybrid)  
-- Hyperscalers: AWS, Azure, Google Cloud  
-- Big Data / AI / ML adoption strategies  
-- Cybersecurity, risk management & compliance  
-- Data platforms: SQL/NoSQL, Hadoop, Spark, Hive, Pentaho  
-- Software architecture & scalable infrastructure  
+- ICT strategy, governance, and multi-country operations
+- Digital transformationwithAI-firstapproaches
+- High-stakes project recovery and operational excellence
+- Hyperscaler enablement (AWS, Azure, GCP)
+- Multi-stackarchitectureandintegration
+- Data-driven value creation (BI, analytics, automation)
+- Leadership of distributed, multicultural teams
 
-### **Transformation & Innovation**
-- Digital transformation roadmaps  
-- Automation (RPA/BPM), telemetry, IoT, Industry 4.0  
-- Data as an asset, BI/analytics  
-- Lean IT, Agile, DevOps-oriented practices  
+👉 My career blends technical depth, business acumen, and execution, enabling organizations to evolve securely and competitively.
 
 ---
 
-## 🛠 **Relevant Projects & Contributions**
+## 🤖 AI & Intelligent Systems Expertise
 
-Below are highlighted examples that represent the type of work I lead.  
+Strong focus on applied AI, LLM-based systems, and next-generation architectures:
 
-### **📌 Public Safety & Government**
-- **National 9-1-1 Automation (Costa Rica)** - Multi-agency emergency automation platform  
-- **Digital Fonasa (Chile)** – Public health insurance automation  
-- **SRCEI, Biblioredes, EFE Transportation Systems**  
+- 🧠 Design and implementation of RAG (Retrieval-AugmentedGeneration) systems
+- 🔗 Orchestration frameworks:
+  - LangChain
+  - LlamaIndex / Ollama-basedpipelines
+- 🤖 Development of multi-agent systems in Python:
+  - Task decomposition
+  - Tool-using agents
+  - Autonomous workflows
+- ☁️ Azure AI Foundry / Azure OpenAI integration for enterprise-grade AI solutions
+- 🧩 Prompt engineering, evaluation, and optimization
+- 📚 Vector databases & semantic search:
+  - FAISS (localprototyping)
+  - CloudvectorDBs (Pinecone, others)
+- 🔄 End-to-end AI pipelines:
+  - ingestion → embeddings → retrieval → generation
 
----
-
-### **📌 Telecom & Multinational Integrations**
-- VAS / Multi-stack integrations for **Kolbi, Claro, Tigo/Millicom, Movistar, C&W, ETB, Entel, Telmex**  
-- Carrier-grade integrations for IoT, telemetry, and mission-critical services  
-
----
-
-### **📌 Corporate, Mining, and Industrial**
-- Managed services and digital transformation for **Codelco, Mantos Blancos, Pelambres, QB**  
-- Technology risk management for **Santander Group**  
-- Business intelligence and automation for industrial IoT  
-
----
-
-### **📌 Software, Cloud & Data Innovation**
-- Multi-cloud (AWS/Azure/GCP) adoption strategies  
-- Mission-critical systems architecture & migration  
-- Data governance & BI architectures  
+👉 Focus on real-world AI adoption, not just experimentation.
 
 ---
 
-## 🎓 **Education & Certifications Overview**
+## 💼 Areas of Expertise
 
-A blend of engineering, business, and specialized professional training:
+### Strategic & Organizational
 
-- **Computer Engineer**  
-- **Business Administration**  
-- **MBA (Thesis Pending)**  
-- Multiple diplomas in software quality, agile project management, multimedia design, public safety, Industry 4.0  
-- Professional badges in:  
-  - AI for Product Management  
-  - BI & Analytics  
-  - Lean Six Sigma  
-  - Scrum  
-  - Postman API Expert  
-  - AWS Machine Learning & Cloud Foundations  
-  - Full Stack Python  
+- ICT strategy & governance
+- Business optimization & financial planning
+- P&L, budgeting, business cases
+- Contract negotiation & vendor management
+- Multinational operations
+- Mission-critical environments (9-1-1, ITS, government automation)
 
 ---
 
-## 🔧 **Technical Stack & Tools**
+### Technology & Engineering
 
-**Cloud:** AWS • Azure • GCP    
-**Programming Languages:** Python • Java • Kotlin • Javascript • Bash    
-**Data:** Python • SQL/NoSQL • Hadoop • Spark • Hive • Pentaho • PowerBI • Looker    
-**Dev & Ops:** Docker • Git • APIs • CI/CD fundamentals    
-**Processes:** Agile • BPM • RPA • ISO 27000 • ISO20000 • ISO22301 • ITSM • BCM    
-**Domains:** Telcos • Public Safety • Fintech • Retail • Government • Mining    
-**World Class Platforms:** SAP • Dynamics • Salesforce    
-
----
-
-## 📁 **Portfolio Apps (Android), Projects and Prototypes**
-
-| Technology | Brief | Project
-|---------|----------|----------|
-| Python/Streamlit | Academic project | [Demo Toll Payment Software using Python and Streamlit](https://evalm4-jotacordovaj.streamlit.app/) |
-| Android/Kotlin  | Personal Finances | [App "MisLucas", personal financial planner using Kotlin](https://github.com/jcordovaj/ae3_abpro1_MisLucas) |
-| Android/Kotlin  | Personal Assistant | [App "GesTareaV5", personal assistant planner using Kotlin](https://github.com/jcordovaj/evalfinal_GesTareaV5) |
-| Android/Kotlin  | ApiRest/News | [App "ApiNews", personal feeds systems using an Open API](https://github.com/jcordovaj/ae2_abp1_APINews) |
-| Android/Kotlin  | Home Care | [App "MayorCuidado", complete home care system oriented to support patients with severe dependency](https://github.com/jcordovaj/MayorCuidadoV1.0) |
+- Multi-stack integration (cloud, on-prem, hybrid)
+- Hyperscalers: AWS, Azure, GoogleCloud
+- AI / ML / LLM architectures
+- RAG systems & intelligent assistants
+- Cybersecurity, risk & compliance
+- Dataplatforms: SQL/NoSQL, Hadoop, Spark, Hive, Pentaho
+- Scalable software architecture
 
 ---
 
-## 🌐 **Connect with Me**
+### Transformation & Innovation
 
-- 📧 **Email:** jorge.cordovaj@gmail.com  
-- 🌍 **Location:** Santiago, Chile  
-- 🔗 **LinkedIn:** www.linkedin.com/in/jotacordovaj  
-- 🌐 **Website/Portfolio:** https://jcordovaj.github.io/  
+- Digital transformation roadmaps
+- AI adoption strategies (enterprise & operational)
+- Automation (RPA/BPM), IoT, Industry 4.0
+- Data as an asset (BI/analytics)
+- Lean IT, Agile, DevOps/GenAI practices
 
 ---
 
-### ⭐ *Thank you for visiting my GitHub!  
-I’m open to collaborating on ICT strategy, digital transformation, data-driven innovation, and large-scale technology challenges.*
+## 🛠 Relevant Projects & Contributions
 
+### 📌 AI & IntelligentSystems
+
+- Developmentof RAG-based chatbots using LangChain + FAISS
+- Prototyping multi-agent orchestration systems in Python
+- AI-powered knowledge assistants for enterprise use cases
+- Integration of LLMs in to operational and business workflows
+
+---
+
+### 📌 Public Safety & Government
+
+- National 9-1-1 Automation (CostaRica)
+- DigitalFonasa (Chile)
+- SRCEI, Biblioredes, EFE Transportation Systems
+
+---
+
+### 📌 Telecom & Multinational Integrations
+
+- VAS / multi-stack integrations for:
+  - Kolbi, Claro, Tigo/Millicom, Movistar, C&W, ETB, Entel, Telmex
+  - Carrier-grade IoT and telemetry platforms
+
+---
+
+### 📌 Corporate, Mining & Industrial
+
+- Digital transformation for:
+  - Codelco, MantosBlancos, Pelambres, QB
+  - Technologyriskmanagement (SantanderGroup)
+  - IndustrialIoT & BIsolutions
+
+---
+
+### 📌 Software, Cloud & Data Innovation
+
+- Multi-cloud adoption strategies
+- Mission-critical systems architecture & migration
+- Data governance & BI platforms
+
+---
+
+## 🎓 Education & Certifications Overview
+
+- Computer Engineer
+- Business Administration
+- MBA (ThesisPending)
+
+Additional certifications and diplomas:
+
+- AI for Product Management
+- BI & Analytics
+- Lean Six Sigma
+- Scrum
+- Postman API Expert
+- AWS MachineLearning & CloudFoundations
+- Full Stack Python
+
+---
+
+## 🔧 Technical Stack & Tools
+
+### ☁️ Cloud
+
+    AWS • Azure • GCP • Azure AI Foundry • Azure OpenAI
+
+### 🤖 AI / LLM
+
+    Claude•LangChain • LlamaIndex • Ollama • RAG Architectures • Prompt Engineering
+
+### 💻 Programming
+
+    Python • Java • Kotlin • JavaScript • Bash• Apex
+
+### 📊 Data
+
+    Python • SQL/NoSQL • Hadoop • Spark • Hive • Pentaho • PowerBI • Looker• Tableau
+
+### ⚙️ Dev & Ops
+
+    Docker • Git • APIs • CI/CD
+
+### 🔄 Processes
+
+    Agile • BPM • RPA • ITSM • ISO 27000 • ISO20000 • ISO22301 • BCM
+
+### 🌍 Domains
+
+    Telcos • PublicSafety • Fintech • Retail • Government • Mining
+
+### 🏢 EnterprisePlatforms
+
+    SAP • Dynamics • Salesforce
+
+---
+
+## 📁 Portfolio Apps, Projects & Prototypes
+
+| Technology                     | Description                  | Project                                |
+| ------------------------------ | ---------------------------- | -------------------------------------- |
+| Python/Streamlit               | Academic project             | "TollPaymentSoftware"                  |
+| Android/Kotlin                 | Personal finance             | "MisLucas"                             |
+| Android/Kotlin                 | Personal assistant           | "GesTareaV5"                           |
+| Android/Kotlin                 | API integration              | "ApiNews"                              |
+| Android/Kotlin                 | Healthcare                   | "MayorCuidado"                         |
+| Azure AI/Python/TS             | AI Scientific Assitant       | "ALMA-Scientifc AI Assistant "         |
+| LangChain/Python/Render/OpenAi | Chatbox RAG                  | "Specialized RAG AI Assitant"          |
+| Java                           | Intelligent Logistic Systems | "LMLS - Last Mile Logistic System      |
+| Java                           | OSH/OHS Project              | "OSH/OHS Consulting Management System" |
+
+---
+
+## 🌐 Connect with Me
+
+📧 Email: [jorge.cordovaj@gmail.com]()
+
+🌍 Location: Santiago, Chile
+
+🔗 LinkedIn: [www.linkedin.com/in/jotacordovaj](http://www.linkedin.com/in/jotacordovaj)
+
+🌐 Portfolio: [https://jcordovaj.github.io/](https://jcordovaj.github.io/)
+
+---
+
+## ⭐ FinalNote
+
+I'm currently focused on bridging enterprise ICT strategy with applied AI, especially in:
+
+- RAG systems
+- Multi-agent orchestration
+- AI-powered operations
+
+Open to collaborating on **high-impact, scalable, AI-driven solutions** .
