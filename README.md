@@ -54,7 +54,7 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 
 ## 💼 Areas of Expertise
 
-### Strategic & Organizational
+### 📌 Strategic & Organizational
 
 - ICT strategy & governance
 - Business optimization & financial planning
@@ -65,7 +65,7 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 
 ---
 
-### Technology & Engineering
+### 📌 Technology & Engineering
 
 - Multi-stack integration (cloud, on-prem, hybrid)
 - Hyperscalers: AWS, Azure, GoogleCloud
@@ -77,7 +77,7 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 
 ---
 
-### Transformation & Innovation
+### 📌 Transformation & Innovation
 
 - Digital transformation roadmaps
 - AI adoption strategies (enterprise & operational)
