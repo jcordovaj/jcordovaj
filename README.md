@@ -179,7 +179,7 @@ Additional certifications and diplomas:
 
     Telcos • PublicSafety • Fintech • Retail • Government • Mining
 
-### 🏢 EnterprisePlatforms
+### 🏢 Enterprise Platforms
 
     SAP • Dynamics • Salesforce
 
