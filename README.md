@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Jota Córdova
 
-ICTStrategy • Digital Transformation • AI Adoption • Multi-Agent Systems • Operations & Multi-Stack Integration
+ICT Strategy • Digital Transformation • AI Adoption • Multi-Agent Systems • Operations & Multi-Stack Integration
 
 Senior ICT executive and consultant with 20+ years of experience leading complex technology environments across Latin America, spanning telecommunications, government, public safety, fintech, retail, mining, and multinational corporate ecosystems.
 
