@@ -194,7 +194,8 @@ Additional certifications and diplomas:
 | Android/Kotlin                 | Personal assistant           | "GesTareaV5"                           |
 | Android/Kotlin                 | API integration              | "ApiNews"                              |
 | Android/Kotlin                 | Healthcare                   | "MayorCuidado"                         |
-| Azure AI/Python/TS             | AI Scientific Assitant       | "ALMA-Scientifc AI Assistant "         |
+| Azure AI/Python/TS             | AI Scientific Assitant       | "ALMA-Scientific AI Assistant "        |
+| Edge AI/Gemma/Yolo             | Public Safety AI Assitant    | "SentinelEdge AI Security Copilot"
 | LangChain/Python/Render/OpenAi | Chatbox RAG                  | "Specialized RAG AI Assitant"          |
 | Java                           | Intelligent Logistic Systems | "LMLS - Last Mile Logistic System      |
 | Java                           | OSH/OHS Project              | "OSH/OHS Consulting Management System" |
