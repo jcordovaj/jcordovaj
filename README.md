@@ -17,10 +17,10 @@ I specialize in bridging business strategy, digital transformation, AI-driven ar
 With a multidisciplinary background across technology, operations, business development, and innovation, I help organizations to define, deploy, and scale modern technology strategies through:
 
 - ICT strategy, governance, and multi-country operations
-- Digital transformationwithAI-firstapproaches
+- Digital transformation with AI-first approaches
 - High-stakes project recovery and operational excellence
 - Hyperscaler enablement (AWS, Azure, GCP)
-- Multi-stackarchitectureandintegration
+- Multi-stack architecture and integration
 - Data-driven value creation (BI, analytics, automation)
 - Leadership of distributed, multicultural teams
 
@@ -35,7 +35,7 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 - 🧠 Design and implementation of RAG (Retrieval-Augmented Generation) systems
 - 🔗 Orchestration frameworks:
   - LangChain
-  - LlamaIndex / Ollama-basedpipelines
+  - LlamaIndex / Ollama-based pipelines
 - 🤖 Development of multi-agent systems in Python:
   - Task decomposition
   - Tool-using agents
@@ -62,6 +62,7 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 - Contract negotiation & vendor management
 - Multinational operations
 - Mission-critical environments (9-1-1, ITS, government automation)
+- GenAIOps, FinOps
 
 ---
 
@@ -101,6 +102,8 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 ### 📌 Public Safety & Government
 
 - National 9-1-1 Automation (CostaRica)
+- Public Safety Automation Projects: Mexico, Colombia, Panama, USA, BVI, Bolivia
+- TranSantiago
 - Digital Fonasa (Chile)
 - SRCEI, Biblioredes, EFE Transportation Systems
 
@@ -117,9 +120,9 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 ### 📌 Corporate, Mining & Industrial
 
 - Digital transformation for:
-  - Codelco, MantosBlancos, Pelambres, QB
-  - Technologyriskmanagement (SantanderGroup)
-  - IndustrialIoT & BIsolutions
+  - Codelco, Mantos Blancos, Pelambres, QB
+  - Technology risk management (Santander Group)
+  - Industrial IoT & BI solutions
 
 ---
 
@@ -135,7 +138,7 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 
 - Computer Engineer
 - Business Administration
-- MBA (ThesisPending)
+- MBA (Thesis Pending)
 
 Additional certifications and diplomas:
 
@@ -144,7 +147,7 @@ Additional certifications and diplomas:
 - Lean Six Sigma
 - Scrum
 - Postman API Expert
-- AWS MachineLearning & CloudFoundations
+- AWS Machine Learning & Cloud Foundations
 - Full Stack Python
 
 ---
@@ -157,7 +160,7 @@ Additional certifications and diplomas:
 
 ### 🤖 AI / LLM
 
-    Claude•LangChain • LlamaIndex • Ollama • RAG Architectures • Prompt Engineering
+   LangChain • LlamaIndex • OpenRouter • Ollama • RAG Architectures • Prompt Engineering • Claude 
 
 ### 💻 Programming
 
@@ -173,11 +176,11 @@ Additional certifications and diplomas:
 
 ### 🔄 Processes
 
-    Agile • BPM • RPA • ITSM • ISO 27000 • ISO20000 • ISO22301 • BCM
+    Agile • BPM • RPA • ITSM • ISO 27001 • ISO 20000 • ISO 22301 • BCM
 
 ### 🌍 Domains
 
-    Telcos • PublicSafety • Fintech • Retail • Government • Mining
+    Telcos • Public Safety Automation • eHealth • Fintech • Retail • Government • Mining
 
 ### 🏢 Enterprise Platforms
 
@@ -215,7 +218,7 @@ Additional certifications and diplomas:
 
 ---
 
-## ⭐ FinalNote
+## ⭐ Final Note
 
 I'm currently focused on bridging enterprise ICT strategy with applied AI, especially in:
 
