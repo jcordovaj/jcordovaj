@@ -101,7 +101,7 @@ Strong focus on applied AI, LLM-based systems, and next-generation architectures
 ### 📌 Public Safety & Government
 
 - National 9-1-1 Automation (CostaRica)
-- DigitalFonasa (Chile)
+- Digital Fonasa (Chile)
 - SRCEI, Biblioredes, EFE Transportation Systems
 
 ---
@@ -193,9 +193,10 @@ Additional certifications and diplomas:
 | Android/Kotlin                 | Personal finance             | "MisLucas"                             |
 | Android/Kotlin                 | Personal assistant           | "GesTareaV5"                           |
 | Android/Kotlin                 | API integration              | "ApiNews"                              |
-| Android/Kotlin                 | Healthcare                   | "MayorCuidado"                         |
+| Android/Kotlin                 | eHealth Homecare solution    | "MayorCuidado"                         |
 | Azure AI/Python/TS             | AI Scientific Assitant       | "ALMA-Scientific AI Assistant "        |
-| Edge AI/Gemma/Yolo             | Public Safety AI Assitant    | "SentinelEdge AI Security Copilot"
+| Edge AI/Gemma/Yolo             | Public Safety AI Assitant    | "SentinelEdge AI Security Copilot"     |
+| GoogleGenAI/Gemini             | Lifestyle                    | "Recipes from images"                  |
 | LangChain/Python/Render/OpenAi | Chatbox RAG                  | "Specialized RAG AI Assitant"          |
 | Java                           | Intelligent Logistic Systems | "LMLS - Last Mile Logistic System      |
 | Java                           | OSH/OHS Project              | "OSH/OHS Consulting Management System" |
