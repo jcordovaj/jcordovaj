@@ -1,6 +1,7 @@
 <!-- HEADER -->
 
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
+[![Agenda una Reunión](https://shields.io)](https://calendar.app.google/xr5JuRcS1ier8xD39)
 
 # 👋 Hi, I'm Jota Córdova
 
