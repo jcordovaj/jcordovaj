@@ -1,7 +1,9 @@
 <!-- HEADER -->
 
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
+
 https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+
 - [![Agenda una Reunión](https://shields.io)](https://calendar.app.google/xr5JuRcS1ier8xD39)
 
 [![Agenda una Reunión](https://shields.io)](https://app.google)
