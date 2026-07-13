@@ -221,7 +221,7 @@ Additional certifications and diplomas:
 
 ## 🌐 Connect with Me
 
-📧 Email: [jorge.cordovaj@gmail.com](1234)
+📧 Email: [Jota Cordova](jorge.cordovaj@gmail.com)
 
 🌍 Location: Santiago, Chile
 
