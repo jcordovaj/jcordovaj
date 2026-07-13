@@ -1,8 +1,6 @@
 <!-- HEADER -->
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
 
-[![Agenda una Reunión3](https://img.shields.io/badge/calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
-
 # 👋 Hi, I'm Jota Córdova
 
 ICT Strategy • Digital Transformation • AI Adoption • Multi-Agent Systems • Operations & Multi-Stack Integration
@@ -10,6 +8,8 @@ ICT Strategy • Digital Transformation • AI Adoption • Multi-Agent Systems 
 Senior ICT executive and consultant with 20+ years of experience leading complex technology environments across Latin America, spanning telecommunications, government, public safety, fintech, retail, mining, and multinational corporate ecosystems.
 
 I specialize in bridging business strategy, digital transformation, AI-driven architectures, hyperscalers, and operational execution for organizations running mission-critical, high-availability systems.
+
+[![Agenda una Reunión3](https://img.shields.io/badge/calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
 
 ---
 
