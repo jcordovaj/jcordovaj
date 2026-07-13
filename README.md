@@ -213,7 +213,7 @@ Additional certifications and diplomas:
 
 🌍 Location: Santiago, Chile
 
-🔗 LinkedIn: [wwjotacordovaj](http://www.linkedin.com/in/jotacordovaj)
+🔗 LinkedIn: [jotacordovaj](http://www.linkedin.com/in/jotacordovaj)
 
 🌐 Portfolio: [jcordovaj.github.io/](https://jcordovaj.github.io/)
 
