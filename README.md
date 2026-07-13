@@ -1,6 +1,6 @@
 [![Agenda una Reunión3](https://img.shields.io/badge/calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
 
-[![Nueva prueba2](https://githubusercontent.com)](https://calendar.app.google/xr5JuRcS1ier8xD39)
+[![Nueva prueba2](https://github.com/jcordovaj/jcordovaj/scrapbook/googlecalendar.svg)](https://calendar.app.google/xr5JuRcS1ier8xD39)
 
 ![Agenda una Reunión](https://img.shields.io/badge/calendar-Agenda_una_Reunión-green)
 
