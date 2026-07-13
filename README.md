@@ -4,7 +4,7 @@
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
 
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
-[![Mi Badge](scrapbook/googlecalendar.svg)]
+[![Mi Badge](scrapbook/googlecalendar.svg)]([![Agenda una Reunión](https://shields.io)](https://calendar.app.google/xr5JuRcS1ier8xD39))
 
 <svg xmlns="http://www.w3.org/2000/svg" width="108" height="20" role="img" aria-label="any text: you like"><title>any text: you like</title><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="108" height="20" rx="3"/></clipPath><g clip-path="url(#r)"><rect width="55" height="20" fill="#555"/><rect x="55" width="53" height="20" fill="#007ec6"/><rect width="108" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="285" y="150" fill-opacity=".8" filter="url(#blur)" textLength="450">any text</text><text x="285" y="150" fill-opacity=".3" textLength="450">any text</text></g><text x="285" y="140" textLength="450">any text</text></g><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="805" y="150" fill-opacity=".8" filter="url(#blur)" textLength="430">you like</text><text x="805" y="150" fill-opacity=".3" textLength="430">you like</text></g><text x="805" y="140" textLength="430">you like</text></g></g></svg>
 
@@ -34,7 +34,7 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
 
 https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
-- [![Agenda una Reunión](https://shields.io)](https://calendar.app.google/xr5JuRcS1ier8xD39)
+[![Agenda una Reunión](https://shields.io)](https://calendar.app.google/xr5JuRcS1ier8xD39)
 
 [![Agenda una Reunión](https://shields.io)](https://app.google)
 
