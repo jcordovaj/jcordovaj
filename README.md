@@ -1,4 +1,6 @@
-![Agenda una Reunión](https://img.shields.io/badge/calendar-Agenda_una_Reunión)
+![Agenda una Reunión](https://img.shields.io/badge/calendar-Agenda_una_Reunión-green)
+
+![Agendar Reunión](https://img.shields.io/badge/any_text-you_like-blue)
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
 
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
