@@ -227,5 +227,6 @@ I'm currently focused on bridging enterprise ICT strategy with applied AI, espec
 - Multi-agent orchestration
 - AI-powered operations
 
-Open to collaborating on **high-impact, scalable, AI-driven solutions** .
+Open to collaborating on **high-impact, scalable, AI-driven solutions**.
+
 [![Agenda una Reunión3](https://img.shields.io/badge/calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
