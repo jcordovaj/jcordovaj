@@ -9,7 +9,7 @@ Senior ICT executive and consultant with 20+ years of experience leading complex
 
 I specialize in bridging business strategy, digital transformation, AI-driven architectures, hyperscalers, and operational execution for organizations running mission-critical, high-availability systems.
 
-[![Agenda una Reunión](https://img.shields.io/badge/Calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
+[![Agenda una Reunión](https://img.shields.io/badge/Google_Calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
 
 ---
 
@@ -229,4 +229,4 @@ I'm currently focused on bridging enterprise ICT strategy with applied AI, espec
 
 Open to collaborating on **high-impact, scalable, AI-driven solutions**.
 
-[![Agenda una Reunión](https://img.shields.io/badge/Calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
+[![Agenda una Reunión](https://img.shields.io/badge/Google_Calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
