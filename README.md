@@ -215,7 +215,7 @@ Additional certifications and diplomas:
 
 🔗 LinkedIn: [jotacordovaj](http://www.linkedin.com/in/jotacordovaj)
 
-🌐 Portfolio: [jcordovaj.github.io/](https://jcordovaj.github.io/)
+🌐 Web: [jcordovaj.github.io/](https://jcordovaj.github.io/)
 
 ---
 
