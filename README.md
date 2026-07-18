@@ -1,5 +1,4 @@
 <!-- HEADER -->
-
 [![Header](scrapbook/portfolio.png)](https://jcordovaj.github.io/)
 
 # 👋 Hi, I'm Jota Córdova
@@ -9,6 +8,8 @@ ICT Strategy • Digital Transformation • AI Adoption • Multi-Agent Systems 
 Senior ICT executive and consultant with 20+ years of experience leading complex technology environments across Latin America, spanning telecommunications, government, public safety, fintech, retail, mining, and multinational corporate ecosystems.
 
 I specialize in bridging business strategy, digital transformation, AI-driven architectures, hyperscalers, and operational execution for organizations running mission-critical, high-availability systems.
+
+[![Agenda una Reunión](https://img.shields.io/badge/Google_Calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
 
 ---
 
@@ -208,13 +209,13 @@ Additional certifications and diplomas:
 
 ## 🌐 Connect with Me
 
-📧 Email: [jorge.cordovaj@gmail.com]()
+📧 Email: [Jota Cordova](jorge.cordovaj@gmail.com)
 
 🌍 Location: Santiago, Chile
 
-🔗 LinkedIn: [www.linkedin.com/in/jotacordovaj](http://www.linkedin.com/in/jotacordovaj)
+🔗 LinkedIn: [jotacordovaj](http://www.linkedin.com/in/jotacordovaj)
 
-🌐 Portfolio: [https://jcordovaj.github.io/](https://jcordovaj.github.io/)
+🌐 Web: [jcordovaj.github.io/](https://jcordovaj.github.io/)
 
 ---
 
@@ -226,4 +227,6 @@ I'm currently focused on bridging enterprise ICT strategy with applied AI, espec
 - Multi-agent orchestration
 - AI-powered operations
 
-Open to collaborating on **high-impact, scalable, AI-driven solutions** .
+Open to collaborating on **high-impact, scalable, AI-driven solutions**.
+
+[![Agenda una Reunión](https://img.shields.io/badge/Google_Calendar-Agenda_una_Reunión-green)](https://calendar.app.google/xr5JuRcS1ier8xD39)
